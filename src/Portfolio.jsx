@@ -47,7 +47,7 @@ const LAYERS = [
     tag: "L1",
     label: "Physical & Transport",
     desc: "The wire itself",
-    items: ["Fiber Optic Cabling", "Cisco Switches", "Routing & Switching", "SAN/NAS"],
+    items: ["Fiber Optic", "Cisco Switches", "Routing & Switching", "SAN/NAS"],
     icon: Network,
   },
 ];
